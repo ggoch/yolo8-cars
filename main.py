@@ -39,6 +39,8 @@ while cap.isOpened():
 
     frameCount += 1
 
+    annotated_frame = frame[:, :, ::-1].copy()
+
     if frameCount % skipFrameCount == 0:
         # # 處理每一幀（以下代碼與處理單張圖片相同）
         img = frame[:, :, ::-1].copy()  # 轉換顏色空間

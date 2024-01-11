@@ -57,6 +57,6 @@ def train_model(train_path,data_yaml_path,epochs=150):
     path = model.export()
     print(f"model export path : {path}")
 
-if __name__ == "__main__":
-    # yaml裡面的data路徑從datasets開始
-    train_model("./runs/detect/train","./data.yaml",epochs=150)
+# if __name__ == "__main__":
+#     # yaml裡面的data路徑從datasets開始
+#     train_model("./runs/detect/train","./data.yaml",epochs=150)

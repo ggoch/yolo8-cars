@@ -65,4 +65,4 @@ def split(data_path,train_path,valid_path,img_source_dir="images",label_source_d
 
     print("done")
 
-split(data_path,train_path,valid_path,img_source_dir,label_source_dir,img_target_dir,label_target_dir,split_ratio=0.8)
+# split(data_path,train_path,valid_path,img_source_dir,label_source_dir,img_target_dir,label_target_dir,split_ratio=0.8)

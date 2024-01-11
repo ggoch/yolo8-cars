@@ -71,4 +71,4 @@ def xml2txt(xml_path, labels_path,lebel_type=LabelType.YOLO):
                     r.write(str(classes[name]) + " ")
                     r.write(" ".join([str(a) for a in polygon]) + "\n")
 
-xml2txt(path, labels_path, LabelType.Polygon)
+# xml2txt(path, labels_path, LabelType.Polygon)

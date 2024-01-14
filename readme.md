@@ -32,10 +32,14 @@ https://www.kaggle.com/datasets/andrewmvd/car-plate-detection?resource=download
 
 ### 備註(影片和模型在github的Releases)
 
-### 第三步 用jupyter開發(未完成)
+### 標籤部分
 
-```
-jupyter notebook
+請下載
+pip install video-cli
 
-python -m ipykernel install --user --name=cuda --display-name "cuda-gpt"
-```
+pip install labelme==5.3.0
+
+只要在cmd輸入 labelme 即可開啟
+
+//將影片切成圖片
+video-toimg "videos/Barataria Morvant Exit.mp4" --per 10 --start 3 --duration 10

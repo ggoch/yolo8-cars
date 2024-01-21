@@ -2,6 +2,13 @@ import os
 import random
 import shutil
 
+from enum import Enum
+
+
+class imageType(Enum):
+    JPG = 1
+    PNG = 2
+
 data_path = "./datas/cars"
 train_path = "./datas/test/train"
 valid_path = "./datas/test/valid"
@@ -12,7 +19,7 @@ label_source_dir = "labels"
 img_target_dir = "images"
 label_target_dir = "labels"
 
-def split(data_path,train_path,valid_path,img_source_dir="images",label_source_dir="labels",img_target_dir="images",label_target_dir="labels",split_ratio=0.8):
+def split(data_path,train_path,valid_path,img_source_dir="images",label_source_dir="labels",img_target_dir="images",label_target_dir="labels",split_ratio=0.8,imageType=imageType.JPG):
     '''
     data_path: the path of the data
     train_path: the path of the train data
@@ -29,10 +36,12 @@ def split(data_path,train_path,valid_path,img_source_dir="images",label_source_d
     if os.path.exists(valid_path):
         shutil.rmtree(valid_path)
 
-    os.makedirs(os.path.join(train_path, img_source_dir))
-    os.makedirs(os.path.join(train_path, label_source_dir))
+    os.makedirs(os.path.join(train_path, img_target_dir))
+    os.makedirs(os.path.join(train_path, label_target_dir))
     os.makedirs(os.path.join(valid_path, img_target_dir))
     os.makedirs(os.path.join(valid_path, label_target_dir))
+
+    fileType = ".jpg" if imageType == imageType.JPG else ".png"
 
     files = [
         os.path.splitext(file)[0] for file in os.listdir(os.path.join(data_path, img_source_dir))
@@ -42,8 +51,8 @@ def split(data_path,train_path,valid_path,img_source_dir="images",label_source_d
     mid = int(len(files) * split_ratio)
 
     for file in files[:mid]:
-        source = os.path.join(data_path, img_source_dir, f"{file}.png")
-        target = os.path.join(train_path, img_target_dir, f"{file}.png")
+        source = os.path.join(data_path, img_source_dir, f"{file}{fileType}")
+        target = os.path.join(train_path, img_target_dir, f"{file}{fileType}")
         print(source, target)
         shutil.copy(source, target)
 
@@ -53,8 +62,8 @@ def split(data_path,train_path,valid_path,img_source_dir="images",label_source_d
         shutil.copy(source, target)
 
     for file in files[mid:]:
-        source = os.path.join(data_path, img_source_dir, f"{file}.png")
-        target = os.path.join(valid_path, img_target_dir, f"{file}.png")
+        source = os.path.join(data_path, img_source_dir, f"{file}{fileType}")
+        target = os.path.join(valid_path, img_target_dir, f"{file}{fileType}")
         print(source, target)
         shutil.copy(source, target)
 

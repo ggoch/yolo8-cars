@@ -1,4 +1,6 @@
 __ignore__
 _background_
-car
+yellow_car
+green_car
+white_car
 linces

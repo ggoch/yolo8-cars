@@ -1,4 +1,4 @@
 train: ./custom/train/images
 val: ./custom/valid/images
-nc: 1
-names: ['license']
+nc: 4
+names: ['yellow_car','green_car','white_car','linces']

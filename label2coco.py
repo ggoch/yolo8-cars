@@ -203,6 +203,8 @@ def main(input_dir, output_dir, labels, noviz=False):
     with open(out_ann_file, "w") as f:
         json.dump(data, f)
 
+    print("Saved to: %s" % out_ann_file)
 
-if __name__ == "__main__":
-    main()
+
+# if __name__ == "__main__":
+#     main()

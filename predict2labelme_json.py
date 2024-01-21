@@ -80,6 +80,6 @@ def predict_result_to_labelme_datas(model_path, input_dir, output_dir,image_type
             json.dump(json_data, f, indent=4)
 
 
-predict_result_to_labelme_datas(
-    "models/segment/weights/best.pt", "videos/Barataria Morvant Exit", "dataset/train/images"
-)
+# predict_result_to_labelme_datas(
+#     "models/segment/weights/best.pt", "videos/Barataria Morvant Exit", "dataset/train/images"
+# )

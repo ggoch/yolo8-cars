@@ -7,5 +7,6 @@ __pycache__/
 yolov8l.pt
 yolov8n.pt
 models.zip
+wbdatas.zip
 wbdatas/
-
+.ipynb_checkpoints/

@@ -43,3 +43,11 @@ pip install labelme==5.3.0
 
 //將影片切成圖片
 video-toimg "videos/Barataria Morvant Exit.mp4" --per 10 --start 3 --duration 10
+
+### 第四步 用jupyter操作流程訓練模型
+
+```
+jupyter notebook
+
+python -m ipykernel install --user --name=cuda --display-name "cuda-gpt"
+```

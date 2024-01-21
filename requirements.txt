@@ -1,5 +1,8 @@
 labelme==5.3.0
-# labelme2coco
 pycocotools
 video-cli
 ultralytics
+albumentations
+jupyter
+pycocotools
+# imantics

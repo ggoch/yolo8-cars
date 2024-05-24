@@ -87,7 +87,7 @@ def transform_image_label(image_dir, label_dir,output_dir):
         image,masks = transform.random(image=image, masks=masks)
 
         # 顯示變換後的圖像和掩碼
-        # plot_image_anns(image, masks)
+        plot_image_anns(image, masks)
 
         polygons = masks_to_polygons_with_id(masks, class_ids, closed=False)
 
@@ -96,6 +96,8 @@ def transform_image_label(image_dir, label_dir,output_dir):
 
         destination = osp.join(output_dir,"JPEGImages", f"{base}.jpg")
         cv2.imwrite(destination, cv2.cvtColor(image, cv2.COLOR_RGB2BGR))
+
+        print(f"{image_id + 1}/{len(image_files)} images transformed", end="\r")
 
     print("Done!")
 

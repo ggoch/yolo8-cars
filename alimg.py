@@ -73,8 +73,10 @@ def transform_image_label(image_dir, label_dir,output_dir):
     for image_id, image_file in enumerate(image_files):
         image = cv2.imread(image_file)
         image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
-
+        
         height, width = image.shape[:2]
+
+        transform.UpdateHeightWidth(height, width)
 
         base = osp.splitext(osp.basename(image_file))[0]
 

@@ -2,8 +2,10 @@ from ultralytics import YOLO
 from video_player import VideoPlayer
 import video2img
 import predict2labelme_json
+import cv2
+import tools.predict_folder_saveimg as predict_folder_saveimg
 
-model_path = "models/wb/v1.0/weights/best.pt"
+model_path = "models/wb/thingV7.0/weights/best.pt"
 
 # model = YOLO(model_path)
 
@@ -21,9 +23,4 @@ model_path = "models/wb/v1.0/weights/best.pt"
 
 # video2img.toimg(video_path,"wb_08white")
 
-result_video_path = "./wbdatas/wb_videos/white/8"
-output_dir = "./datas/labelmecheck"
-
-predict2labelme_json.predict_result_to_labelme_datas(
-    model_path, result_video_path, output_dir
-)
+predict_folder_saveimg.predict_result_to_labelme_datas(model_path, "./wbdatas/split_output", "./split_output_V7.0_result",conf=0.85)

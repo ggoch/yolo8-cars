@@ -8,6 +8,10 @@ class Transforms:
         self.height = height
         self.width = width
 
+    def UpdateHeightWidth(self, height, width):
+        self.height = height
+        self.width = width
+
     def D4(self, image, masks):
         D4_transforms = A.Compose(
             [
@@ -41,17 +45,21 @@ class Transforms:
                 A.Transpose(p=0.5),
                 # crop and resize
                 A.RandomSizedCrop(
-                    (MAX_SIZE - 100, MAX_SIZE),
-                    self.height,
-                    self.width,
+                    min_max_height=(MAX_SIZE - 100, MAX_SIZE),
+                    height=self.height,
+                    width=self.width,
                     interpolation=cv2.INTER_LINEAR,
                     always_apply=False,
                     p=0.5,
                 ),
                 A.Resize(self.height, self.width, interpolation=cv2.INTER_LINEAR, p=1),
                 # A.Normalize()
-            ]
+            ],
         )
+
+        print(self.height, self.width)
+        print(image.shape)
+        print(masks.shape)
 
         result = geom_transforms(image=image, masks=masks)
 

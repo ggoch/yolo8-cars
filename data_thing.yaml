@@ -1,4 +1,6 @@
-train: C:\Users\further-pc\Documents\yolo8-cars\datasets\custom\train\images
-val: C:\Users\further-pc\Documents\yolo8-cars\datasets\custom\valid\images
+# train: C:\Users\further-pc\Documents\yolo8-cars\datasets\custom\train\images
+# val: C:\Users\further-pc\Documents\yolo8-cars\datasets\custom\valid\images
+train: './custom/train/images'
+val: './custom/valid/images'
 nc: 2
 names: ['garbage area','E006']

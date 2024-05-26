@@ -3,7 +3,7 @@ import shutil
 import time
 from ultralytics import YOLO
 
-def train_model(train_path,data_yaml_path,epochs=150):
+def train_model(train_path,data_yaml_path,epochs=150,imgsz=640,batch_size=16,patience=100,lr0=0.01,lrf=0.1):
 
     if os.path.exists(train_path):
         shutil.rmtree(train_path)
@@ -14,10 +14,13 @@ def train_model(train_path,data_yaml_path,epochs=150):
     print("start training")
     t1 = time.time()
     model.train(
-        imgsz=640,
+        imgsz=imgsz,
         epochs=epochs,
         data=data_yaml_path,
-        # batch_size=16,
+        batch=batch_size,
+        patience=patience,
+        lr0=0.01,
+        lrf=0.1,
         # weights="yolov8l.pt",
         # project="runs/detect",
         # name="train",

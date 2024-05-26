@@ -13,7 +13,7 @@ class imageType(Enum):
     JPG = 1
     PNG = 2
 
-def predict_result_to_labelme_datas(model_path, input_dir, output_dir,image_type=imageType.JPG):
+def predict_result_to_labelme_datas(model_path, input_dir, output_dir,image_type=imageType.JPG,conf=0.25,imgsz=640):
     if osp.exists(output_dir):
         print("Output directory already exists:", output_dir)
         sys.exit(1)
@@ -29,7 +29,7 @@ def predict_result_to_labelme_datas(model_path, input_dir, output_dir,image_type
     model = YOLO(model_path)  # load a custom model
 
     for image_id, image_file in enumerate(image_files):
-        results = model.predict(image_file)
+        results = model.predict(image_file,conf=conf,imgsz=imgsz)
         base = osp.splitext(osp.basename(image_file))[0]
 
         destination = osp.join(output_dir, f"{base}.jpg")

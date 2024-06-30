@@ -1,0 +1,4502 @@
+[
+    {
+        "Id": "fc01d792-294b-824f-08a7-3a0e00133f01",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc01d792-294b-824f-08a7-3a0e00133f01_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc04e53d-e74d-a5c3-662f-3a0fdc9014d2",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc04e53d-e74d-a5c3-662f-3a0fdc9014d2_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc096992-2706-6529-71a7-3a08449e0f47",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc096992-2706-6529-71a7-3a08449e0f47_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc0fc206-3cbd-bd06-4008-3a0d2aa8ea87",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc0fc206-3cbd-bd06-4008-3a0d2aa8ea87_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc108131-a34d-09d2-4805-3a0e525b0839",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc108131-a34d-09d2-4805-3a0e525b0839_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc149187-93eb-0367-42c9-3a0c0c6d99ce",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc149187-93eb-0367-42c9-3a0c0c6d99ce_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc158656-a371-8682-4140-3a0b63f7893d",
+        "前/後": "前",
+        "結果": true,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc158656-a371-8682-4140-3a0b63f7893d_front\\result.mp4",
+        "偵測成功圖片位置": "./wbdatas/analyze_result\\original\\fc158656-a371-8682-4140-3a0b63f7893d_front\\predict_thing_img.jpg"
+    },
+    {
+        "Id": "fc16611d-5847-4d4e-3530-3a0da8d331c6",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc16611d-5847-4d4e-3530-3a0da8d331c6_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc167759-24de-b61b-b07c-3a0bb61c1eaa",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc167759-24de-b61b-b07c-3a0bb61c1eaa_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc178a0e-2d74-2e63-583c-3a0fc6b27905",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc178a0e-2d74-2e63-583c-3a0fc6b27905_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc17b963-c19c-198c-1814-3a0fb1262ac0",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc17b963-c19c-198c-1814-3a0fb1262ac0_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc198149-f52d-9ca1-d88a-3a0fa92af571",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc198149-f52d-9ca1-d88a-3a0fa92af571_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc198149-f52d-9ca1-d88a-3a0fa92af571",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc198149-f52d-9ca1-d88a-3a0fa92af571_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc1b4e14-32b8-48d2-6985-3a101f761830",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc1b4e14-32b8-48d2-6985-3a101f761830_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc1c2207-0298-7a76-5805-3a0d18ab4911",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc1c2207-0298-7a76-5805-3a0d18ab4911_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc1cf9e0-b720-848a-ade8-3a0f3048bc2e",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc1cf9e0-b720-848a-ade8-3a0f3048bc2e_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc1dc66f-16ba-6e07-5ac4-3a100f82d0db",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc1dc66f-16ba-6e07-5ac4-3a100f82d0db_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc1fd159-5ada-31fe-b8bb-3a06dbcf0835",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc1fd159-5ada-31fe-b8bb-3a06dbcf0835_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc201ef2-93a3-ad97-93a1-3a0ce0afef37",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc201ef2-93a3-ad97-93a1-3a0ce0afef37_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc204856-09ac-e16e-46c0-3a0d866cb696",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc204856-09ac-e16e-46c0-3a0d866cb696_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc209032-e97a-8ee9-c822-3a0f8da0a929",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc209032-e97a-8ee9-c822-3a0f8da0a929_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc215441-a6ab-6ddf-4ad4-3a0874a616d3",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc215441-a6ab-6ddf-4ad4-3a0874a616d3_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc22536b-6461-9d5c-7ecc-3a0e52f0ba68",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc22536b-6461-9d5c-7ecc-3a0e52f0ba68_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc234fc5-657a-e3fa-6cd4-3a0ad97b2bae",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc234fc5-657a-e3fa-6cd4-3a0ad97b2bae_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc244068-8df5-db51-c5ba-3a0d2282b40e",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc244068-8df5-db51-c5ba-3a0d2282b40e_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc263502-bb33-6f96-3a43-3a0fb11624d2",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc263502-bb33-6f96-3a43-3a0fb11624d2_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc274a95-7c79-257b-d7f4-3a0f37f1c92c",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc274a95-7c79-257b-d7f4-3a0f37f1c92c_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc293ad3-5123-cdad-54b4-3a0f922e0770",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc293ad3-5123-cdad-54b4-3a0f922e0770_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc294348-5148-7831-88b9-3a07969d5cc4",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc294348-5148-7831-88b9-3a07969d5cc4_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc2ad5f6-64e6-908f-cdaa-3a0eef81272e",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc2ad5f6-64e6-908f-cdaa-3a0eef81272e_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc2bea09-40c7-b224-c5a5-3a0f93e0db32",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc2bea09-40c7-b224-c5a5-3a0f93e0db32_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc2c97c6-1d05-830e-dd2d-3a0c893ebdb0",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc2c97c6-1d05-830e-dd2d-3a0c893ebdb0_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc2d09a4-7ca3-cff9-2432-3a0da575d9e2",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc2d09a4-7ca3-cff9-2432-3a0da575d9e2_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc3079f8-b329-c838-20b1-3a0eafc008e3",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc3079f8-b329-c838-20b1-3a0eafc008e3_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc370389-bcd9-33fb-233d-3a0ee304cce6",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc370389-bcd9-33fb-233d-3a0ee304cce6_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc378850-4846-eb71-7e8b-3a0a7194312a",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc378850-4846-eb71-7e8b-3a0a7194312a_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc37e093-cd5c-f859-958a-3a0ea182392d",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc37e093-cd5c-f859-958a-3a0ea182392d_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc381995-bb1d-f227-b3a6-3a0cf4744c10",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc381995-bb1d-f227-b3a6-3a0cf4744c10_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc409608-baee-93b9-f8d1-3a0e16909cbb",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc409608-baee-93b9-f8d1-3a0e16909cbb_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc42be9f-b77d-4157-6008-3a0f82501b7e",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc42be9f-b77d-4157-6008-3a0f82501b7e_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc43586a-d511-246c-aa71-3a08690418be",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc43586a-d511-246c-aa71-3a08690418be_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc44612f-ecd3-f013-eff3-3a0f37dd38fa",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc44612f-ecd3-f013-eff3-3a0f37dd38fa_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc459281-993e-1520-4deb-3a0cf530cdca",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc459281-993e-1520-4deb-3a0cf530cdca_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc4776ea-1686-9679-26bc-3a0fa75beef8",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc4776ea-1686-9679-26bc-3a0fa75beef8_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc485180-02fa-bbb6-5bd6-3a0dccca7667",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc485180-02fa-bbb6-5bd6-3a0dccca7667_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc486218-fb9c-c15b-ee33-3a09e0c34dcd",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc486218-fb9c-c15b-ee33-3a09e0c34dcd_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc48818a-6bd9-eeca-f641-3a0edafa1e79",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc48818a-6bd9-eeca-f641-3a0edafa1e79_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc4b3840-ba40-b51f-6d3d-3a0ffba09ac9",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc4b3840-ba40-b51f-6d3d-3a0ffba09ac9_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc4be5fb-34f7-c6f5-c9f4-3a066be35f8e",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc4be5fb-34f7-c6f5-c9f4-3a066be35f8e_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc4e39e3-5f5b-249c-61ed-3a0ee07001fa",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc4e39e3-5f5b-249c-61ed-3a0ee07001fa_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc50701a-1627-c240-e276-3a0eb48b73a2",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc50701a-1627-c240-e276-3a0eb48b73a2_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc52641b-a962-f8ea-f75e-3a0e43386b55",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc52641b-a962-f8ea-f75e-3a0e43386b55_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc528454-1875-160c-4b29-3a100333d68d",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc528454-1875-160c-4b29-3a100333d68d_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc55623d-f9bb-a54e-d44a-3a0e7441eea0",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc55623d-f9bb-a54e-d44a-3a0e7441eea0_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc560821-e237-c0e7-c369-3a0d0685f92d",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc560821-e237-c0e7-c369-3a0d0685f92d_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc56bea2-9036-1be5-4a1e-3a0bd9743b4a",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc56bea2-9036-1be5-4a1e-3a0bd9743b4a_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc573443-0aff-12dd-c9f1-3a0d29201e4c",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc573443-0aff-12dd-c9f1-3a0d29201e4c_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc59213e-6a67-f8ab-f32f-3a0e6c8980a5",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc59213e-6a67-f8ab-f32f-3a0e6c8980a5_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc5afb4c-581d-b748-8ebb-3a0c1d4b792e",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc5afb4c-581d-b748-8ebb-3a0c1d4b792e_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc5b9935-a566-ad9e-275d-3a07cec9b878",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc5b9935-a566-ad9e-275d-3a07cec9b878_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc5f5a20-4954-bb72-9daa-3a10246d29d3",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc5f5a20-4954-bb72-9daa-3a10246d29d3_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc658000-3d35-2552-7985-3a0ee9070ee2",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc658000-3d35-2552-7985-3a0ee9070ee2_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc678333-22f9-d599-05c8-3a083aefc09d",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc678333-22f9-d599-05c8-3a083aefc09d_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc6bb6e8-f6ba-76e3-307a-3a1003568238",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc6bb6e8-f6ba-76e3-307a-3a1003568238_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc6c776b-0b71-a60a-3c81-3a0a91555d7f",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc6c776b-0b71-a60a-3c81-3a0a91555d7f_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc709a98-2c45-c037-1c3b-3a0ef2756ae8",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc709a98-2c45-c037-1c3b-3a0ef2756ae8_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc7334a2-a9ab-1550-7192-3a0edabbe89f",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc7334a2-a9ab-1550-7192-3a0edabbe89f_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc7334a2-a9ab-1550-7192-3a0edabbe89f",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc7334a2-a9ab-1550-7192-3a0edabbe89f_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc747550-e395-dd48-5f21-3a0ab60938da",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc747550-e395-dd48-5f21-3a0ab60938da_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc757766-1e9c-676a-c2ab-3a0f5bdfa478",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc757766-1e9c-676a-c2ab-3a0f5bdfa478_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc76789f-e53f-a27c-5722-3a0e48bd2796",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc76789f-e53f-a27c-5722-3a0e48bd2796_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc7a307b-1036-1936-dfac-3a0fb841e1ad",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc7a307b-1036-1936-dfac-3a0fb841e1ad_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc7d0c89-e87b-e7e9-1235-3a0eb5a6a4cd",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc7d0c89-e87b-e7e9-1235-3a0eb5a6a4cd_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc7dd84c-46a8-b73e-9bef-3a0f73f17e11",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc7dd84c-46a8-b73e-9bef-3a0f73f17e11_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc80545b-3671-1033-a334-3a0e5792e4c7",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc80545b-3671-1033-a334-3a0e5792e4c7_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc814965-e82b-f696-7cd1-3a0ee9c2a008",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc814965-e82b-f696-7cd1-3a0ee9c2a008_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc8205bd-a992-e52b-5cf3-3a0fe61de6c4",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc8205bd-a992-e52b-5cf3-3a0fe61de6c4_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc822282-9848-1b27-2fef-3a0bbf987e45",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc822282-9848-1b27-2fef-3a0bbf987e45_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc83197b-f1f2-0210-a69d-3a0a6b5caf77",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc83197b-f1f2-0210-a69d-3a0a6b5caf77_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc837939-5a91-67f9-fce6-3a0ddd3323cd",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc837939-5a91-67f9-fce6-3a0ddd3323cd_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc85035d-d294-424f-2cf7-3a0ef7d1c2ef",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc85035d-d294-424f-2cf7-3a0ef7d1c2ef_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc852109-1848-6aca-b151-3a087906c7f1",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc852109-1848-6aca-b151-3a087906c7f1_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc852392-39e0-cff4-4211-3a0e34ead295",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc852392-39e0-cff4-4211-3a0e34ead295_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc852392-39e0-cff4-4211-3a0e34ead295",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc852392-39e0-cff4-4211-3a0e34ead295_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc85c8af-bc45-324a-ed90-3a0dd72ced81",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc85c8af-bc45-324a-ed90-3a0dd72ced81_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc86041b-4075-6ba4-abd5-3a085e1d3c43",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc86041b-4075-6ba4-abd5-3a085e1d3c43_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc874bb5-94af-4c3f-7edd-3a0f634cbdbf",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc874bb5-94af-4c3f-7edd-3a0f634cbdbf_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc87e4f0-674d-fb5e-56dd-3a0b3aa6a8f5",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc87e4f0-674d-fb5e-56dd-3a0b3aa6a8f5_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc8c1157-3166-5c04-f1e8-3a0f8d7a4a78",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc8c1157-3166-5c04-f1e8-3a0f8d7a4a78_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc8eec84-8c5e-650f-098d-3a0de3af0fa4",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc8eec84-8c5e-650f-098d-3a0de3af0fa4_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc921834-e1f9-c337-4887-3a0a34df8623",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc921834-e1f9-c337-4887-3a0a34df8623_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc930957-2952-a337-aac4-3a08b81e8717",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc930957-2952-a337-aac4-3a08b81e8717_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc93544b-7f3a-1743-7c56-3a0f073bb9bc",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc93544b-7f3a-1743-7c56-3a0f073bb9bc_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc945100-0d07-f8fe-10db-3a087310cbd7",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc945100-0d07-f8fe-10db-3a087310cbd7_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc97418d-9965-9d70-bc50-3a0988c2f9d0",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc97418d-9965-9d70-bc50-3a0988c2f9d0_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc992949-9d5f-95f0-8ec8-3a0f9218ef70",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc992949-9d5f-95f0-8ec8-3a0f9218ef70_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc99d8e2-8880-b79e-b105-3a0a8fc023fa",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc99d8e2-8880-b79e-b105-3a0a8fc023fa_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc9b07d6-9119-2ab7-64bc-3a0eeabdb014",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc9b07d6-9119-2ab7-64bc-3a0eeabdb014_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fc9ee46c-b0d8-2517-1a3a-3a0edf7f7d0d",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fc9ee46c-b0d8-2517-1a3a-3a0edf7f7d0d_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca0301a-8c10-4b9a-5583-3a0ca73a7e97",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca0301a-8c10-4b9a-5583-3a0ca73a7e97_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca0773e-50c9-b0f2-2413-3a0de1a3b570",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca0773e-50c9-b0f2-2413-3a0de1a3b570_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca08e14-0160-2147-c0c9-3a0f800d3a14",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca08e14-0160-2147-c0c9-3a0f800d3a14_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca165ae-0470-c450-5b0b-3a0f6de4e236",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca165ae-0470-c450-5b0b-3a0f6de4e236_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca217e9-36d2-089a-0027-3a0e14f1eb36",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca217e9-36d2-089a-0027-3a0e14f1eb36_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca32e33-5356-43a6-e762-3a0e001065ed",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca32e33-5356-43a6-e762-3a0e001065ed_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca32e33-5356-43a6-e762-3a0e001065ed",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca32e33-5356-43a6-e762-3a0e001065ed_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca38773-0199-6e16-d9f6-3a0fe7242a56",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca38773-0199-6e16-d9f6-3a0fe7242a56_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca38f84-5c21-81d5-1b6b-3a0ffe1c9c49",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca38f84-5c21-81d5-1b6b-3a0ffe1c9c49_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca3be57-e378-5c9c-8c66-3a0ef83ba197",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca3be57-e378-5c9c-8c66-3a0ef83ba197_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca4089c-bc01-3115-caad-3a0f91987aef",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca4089c-bc01-3115-caad-3a0f91987aef_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca540bc-1bec-346d-7a68-3a0b55b7edcc",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca540bc-1bec-346d-7a68-3a0b55b7edcc_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca55050-de06-bb4b-403f-3a0b22871979",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca55050-de06-bb4b-403f-3a0b22871979_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca7080a-c1ff-2d70-a8e0-3a0d4e419f9b",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca7080a-c1ff-2d70-a8e0-3a0d4e419f9b_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca7cb30-45eb-c67b-d9f7-3a0edd7ad215",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca7cb30-45eb-c67b-d9f7-3a0edd7ad215_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca7cfff-37e8-4a1d-261f-3a0ff92def30",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca7cfff-37e8-4a1d-261f-3a0ff92def30_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca809e3-80db-c1b9-5636-3a0f5ee2330f",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca809e3-80db-c1b9-5636-3a0f5ee2330f_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca8d7a4-5406-8ab4-f528-3a0c99237a0b",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca8d7a4-5406-8ab4-f528-3a0c99237a0b_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca96857-08ee-84bf-029e-3a0bca50324a",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca96857-08ee-84bf-029e-3a0bca50324a_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca99e7a-0988-dc0a-5a19-3a0f3ccd593e",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca99e7a-0988-dc0a-5a19-3a0f3ccd593e_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca9b2e7-c4dd-ea86-5b57-3a0e9bbb9361",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca9b2e7-c4dd-ea86-5b57-3a0e9bbb9361_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca9b689-5f7c-dd51-611a-3a0d06a7eb4b",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca9b689-5f7c-dd51-611a-3a0d06a7eb4b_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fca9de42-d30b-199c-308d-3a0cd2fa4801",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fca9de42-d30b-199c-308d-3a0cd2fa4801_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcaa7bdb-5416-f2bc-c2c0-3a0f8f419cac",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcaa7bdb-5416-f2bc-c2c0-3a0f8f419cac_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcab0b0d-d656-9a73-681c-3a0add2c7289",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcab0b0d-d656-9a73-681c-3a0add2c7289_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcab865c-84a2-f4e3-51c6-3a0c65270419",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcab865c-84a2-f4e3-51c6-3a0c65270419_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcabdfa3-28ef-a9b7-dbfb-3a083af492df",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcabdfa3-28ef-a9b7-dbfb-3a083af492df_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcac4315-8a1a-321c-63a0-3a06e3ead602",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcac4315-8a1a-321c-63a0-3a06e3ead602_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcac866a-15f9-7ad5-7311-3a09ddc33a92",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcac866a-15f9-7ad5-7311-3a09ddc33a92_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcad5acd-3298-92fc-938c-3a0e17160ca8",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcad5acd-3298-92fc-938c-3a0e17160ca8_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcae64f7-8588-31d1-aac3-3a0e4d93baef",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcae64f7-8588-31d1-aac3-3a0e4d93baef_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcafadf9-97cc-f742-4dbf-3a0d9b9ddb80",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcafadf9-97cc-f742-4dbf-3a0d9b9ddb80_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcafe80a-dc3c-e904-a41e-3a0e4f57b572",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcafe80a-dc3c-e904-a41e-3a0e4f57b572_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcb19cca-cb47-1fc4-12ff-3a0ff3c044f6",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcb19cca-cb47-1fc4-12ff-3a0ff3c044f6_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcb25ef5-92a4-6549-b227-3a0e08194380",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcb25ef5-92a4-6549-b227-3a0e08194380_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcb26487-9405-ecd4-f18a-3a0d15297762",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcb26487-9405-ecd4-f18a-3a0d15297762_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcb297bb-ffd6-049c-04c4-3a0f797d24a5",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcb297bb-ffd6-049c-04c4-3a0f797d24a5_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcb2bd65-09fa-885a-f1b8-3a0ab0d1cfbd",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcb2bd65-09fa-885a-f1b8-3a0ab0d1cfbd_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcb30dd9-6b88-5942-8960-3a0d13a75af4",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcb30dd9-6b88-5942-8960-3a0d13a75af4_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcb3c265-a3ee-ba8f-b9c0-3a0ad8a39700",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcb3c265-a3ee-ba8f-b9c0-3a0ad8a39700_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcb40fae-6887-8749-5198-3a0d03f95ea9",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcb40fae-6887-8749-5198-3a0d03f95ea9_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcb439f1-72b8-5f85-d829-3a0da5f8def6",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcb439f1-72b8-5f85-d829-3a0da5f8def6_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcb43c04-d020-53c5-e844-3a10235837b5",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcb43c04-d020-53c5-e844-3a10235837b5_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcb49c9c-9cd9-6671-a482-3a0e6c69d284",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcb49c9c-9cd9-6671-a482-3a0e6c69d284_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcb5079f-d10c-a4b8-13eb-3a0f949ee454",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcb5079f-d10c-a4b8-13eb-3a0f949ee454_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcb531ee-0e8c-44bd-b812-3a0f55bc6dd6",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcb531ee-0e8c-44bd-b812-3a0f55bc6dd6_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcb56cd8-7319-194a-9e1d-3a0ceff0d831",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcb56cd8-7319-194a-9e1d-3a0ceff0d831_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcb6ed02-0e58-d8cb-937f-3a0fd76400a4",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcb6ed02-0e58-d8cb-937f-3a0fd76400a4_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcb7dfd4-6c76-d74c-0c82-3a0b351f1d2b",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcb7dfd4-6c76-d74c-0c82-3a0b351f1d2b_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcb9513b-53ed-1f0f-97b8-3a08a76b3b1f",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcb9513b-53ed-1f0f-97b8-3a08a76b3b1f_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcba76a3-11d7-36eb-4705-3a0ca95e5e5f",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcba76a3-11d7-36eb-4705-3a0ca95e5e5f_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcbafe27-d40c-9d42-a996-3a0ab51d19c2",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcbafe27-d40c-9d42-a996-3a0ab51d19c2_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcbbc9e2-1626-f3d0-f2d3-3a0dcf12bf27",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcbbc9e2-1626-f3d0-f2d3-3a0dcf12bf27_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcbc4463-59fc-135f-9fbd-3a0b41292286",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcbc4463-59fc-135f-9fbd-3a0b41292286_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcbc48a3-9f3e-5bba-90b6-3a0b304bdaef",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcbc48a3-9f3e-5bba-90b6-3a0b304bdaef_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcbd1486-5070-38e7-3be3-3a08080dcf85",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcbd1486-5070-38e7-3be3-3a08080dcf85_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcbd84e0-e43c-c063-8a76-3a0c0f0329f2",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcbd84e0-e43c-c063-8a76-3a0c0f0329f2_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcbea7f7-310b-71a1-0e8f-3a0bc5f1a189",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcbea7f7-310b-71a1-0e8f-3a0bc5f1a189_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcbeec52-3240-04bb-0f2f-3a0ec3d31021",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcbeec52-3240-04bb-0f2f-3a0ec3d31021_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcbfcbe9-9c8d-77dc-9796-3a0f7f047657",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcbfcbe9-9c8d-77dc-9796-3a0f7f047657_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc053aa-16ae-3c5f-9858-3a0acdc0824f",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc053aa-16ae-3c5f-9858-3a0acdc0824f_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc091e1-d5a7-dd40-1949-3a0ef2c83a4b",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc091e1-d5a7-dd40-1949-3a0ef2c83a4b_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc091e1-d5a7-dd40-1949-3a0ef2c83a4b",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc091e1-d5a7-dd40-1949-3a0ef2c83a4b_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc0b53d-c22d-3fc1-42f3-3a08a8c0d6fb",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc0b53d-c22d-3fc1-42f3-3a08a8c0d6fb_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc1a54e-3e47-e425-ce4c-3a0d9ee2a2c5",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc1a54e-3e47-e425-ce4c-3a0d9ee2a2c5_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc1ef95-2678-97e3-e516-3a0e39862a59",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc1ef95-2678-97e3-e516-3a0e39862a59_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc2a4e9-3b07-6caa-1d27-3a0d4c1744ac",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc2a4e9-3b07-6caa-1d27-3a0d4c1744ac_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc3436a-1d02-5651-6c67-3a101d733d8b",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc3436a-1d02-5651-6c67-3a101d733d8b_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc38597-c8c0-1334-0f0b-3a08918be114",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc38597-c8c0-1334-0f0b-3a08918be114_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc3d0a5-aa95-d55f-9796-3a0cc128a9ab",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc3d0a5-aa95-d55f-9796-3a0cc128a9ab_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc3da3b-5fab-5e29-9e23-3a0bc1f73ee5",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc3da3b-5fab-5e29-9e23-3a0bc1f73ee5_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc4179a-fbeb-4cba-ae79-3a0dab6a3fb7",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc4179a-fbeb-4cba-ae79-3a0dab6a3fb7_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc4220e-5310-1d31-682a-3a0e248eed05",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc4220e-5310-1d31-682a-3a0e248eed05_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc4434c-3160-0df9-86f7-3a0eee33e1e1",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc4434c-3160-0df9-86f7-3a0eee33e1e1_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc46a87-b962-bd0d-ebf7-3a0c7647c23d",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc46a87-b962-bd0d-ebf7-3a0c7647c23d_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc496f6-4de3-718e-679a-3a0fcf6a4078",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc496f6-4de3-718e-679a-3a0fcf6a4078_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc53eab-921a-b9e1-6e37-3a0ed40f2d97",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc53eab-921a-b9e1-6e37-3a0ed40f2d97_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc56018-925a-a0f7-9877-3a0e76d1ffcb",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc56018-925a-a0f7-9877-3a0e76d1ffcb_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc56018-925a-a0f7-9877-3a0e76d1ffcb",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc56018-925a-a0f7-9877-3a0e76d1ffcb_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc565d0-5049-27bd-3c68-3a0cc6311c7a",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc565d0-5049-27bd-3c68-3a0cc6311c7a_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc77b51-326e-584c-7224-3a100ff03814",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc77b51-326e-584c-7224-3a100ff03814_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc7a5fd-e74d-610a-e7a9-3a0ed0a3fa9e",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc7a5fd-e74d-610a-e7a9-3a0ed0a3fa9e_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcc8180e-523e-bcbe-462c-3a0c0db351b6",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcc8180e-523e-bcbe-462c-3a0c0db351b6_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcca0560-8597-397e-e01c-3a0c16bd47a2",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcca0560-8597-397e-e01c-3a0c16bd47a2_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcca8097-76fc-c3d7-6d68-3a0c1ecf1440",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcca8097-76fc-c3d7-6d68-3a0c1ecf1440_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fccac5ef-a161-05a1-e5a5-3a10224cb030",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fccac5ef-a161-05a1-e5a5-3a10224cb030_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fccc307a-362f-952e-5b04-3a0965f43b51",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fccc307a-362f-952e-5b04-3a0965f43b51_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fccc781f-e377-6475-abd4-3a0c85c8815f",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fccc781f-e377-6475-abd4-3a0c85c8815f_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fccca966-f0d3-3ae5-dca5-3a0f84361ce7",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fccca966-f0d3-3ae5-dca5-3a0f84361ce7_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fccce159-374c-f31f-c4cb-3a0773e04131",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fccce159-374c-f31f-c4cb-3a0773e04131_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fccd1f7c-e87e-e0a4-0fa8-3a1022845218",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fccd1f7c-e87e-e0a4-0fa8-3a1022845218_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fccd1f7c-e87e-e0a4-0fa8-3a1022845218",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fccd1f7c-e87e-e0a4-0fa8-3a1022845218_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fccd927b-08d2-ee5b-fe4e-3a0706dd8077",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fccd927b-08d2-ee5b-fe4e-3a0706dd8077_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fccd95ac-3447-da4e-f16d-3a0f9bfb552c",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fccd95ac-3447-da4e-f16d-3a0f9bfb552c_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fccde9a7-b25a-2e86-4441-3a0a13c31890",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fccde9a7-b25a-2e86-4441-3a0a13c31890_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcce2aeb-a544-5f90-3ab2-3a0a28e6c8d3",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcce2aeb-a544-5f90-3ab2-3a0a28e6c8d3_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fccea660-7584-9a30-1942-3a102846ba56",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fccea660-7584-9a30-1942-3a102846ba56_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcceadea-ca8f-5291-0299-3a0a8b2f0a04",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcceadea-ca8f-5291-0299-3a0a8b2f0a04_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fccf7d97-2fe9-85bb-517d-3a0f3c1e2bdf",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fccf7d97-2fe9-85bb-517d-3a0f3c1e2bdf_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcd0ca40-0440-5225-0438-3a0f1b2e9ac4",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcd0ca40-0440-5225-0438-3a0f1b2e9ac4_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcd1e236-5fb2-b865-3aa9-3a07be6562ff",
+        "前/後": "前",
+        "結果": true,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcd1e236-5fb2-b865-3aa9-3a07be6562ff_front\\result.mp4",
+        "偵測成功圖片位置": "./wbdatas/analyze_result\\original\\fcd1e236-5fb2-b865-3aa9-3a07be6562ff_front\\predict_thing_img.jpg"
+    },
+    {
+        "Id": "fcd237cf-2ff8-4225-34f4-3a0f96e21e8b",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcd237cf-2ff8-4225-34f4-3a0f96e21e8b_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcd279f3-8b68-6ab2-7143-3a100db7486e",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcd279f3-8b68-6ab2-7143-3a100db7486e_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcd393bb-fdc5-21a0-5f17-3a077bbd3292",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcd393bb-fdc5-21a0-5f17-3a077bbd3292_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcd3d158-be30-7525-6d1a-3a1018c24547",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcd3d158-be30-7525-6d1a-3a1018c24547_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcd42951-21a1-2e28-7c34-3a0f4f45a2b9",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcd42951-21a1-2e28-7c34-3a0f4f45a2b9_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcd43d7b-2127-3026-7047-3a0ac4182d18",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcd43d7b-2127-3026-7047-3a0ac4182d18_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcd4c555-5486-0cfa-6e87-3a0fc6ad883d",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcd4c555-5486-0cfa-6e87-3a0fc6ad883d_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcd5485f-1f38-ffb6-00e5-3a0fe04de50c",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcd5485f-1f38-ffb6-00e5-3a0fe04de50c_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcd5485f-1f38-ffb6-00e5-3a0fe04de50c",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcd5485f-1f38-ffb6-00e5-3a0fe04de50c_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcd5a39a-e5f9-baeb-c00f-3a0d873df490",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcd5a39a-e5f9-baeb-c00f-3a0d873df490_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcd5bb8f-c518-3708-c0f3-3a0a1643403d",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcd5bb8f-c518-3708-c0f3-3a0a1643403d_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcd8aa36-a229-e64c-b028-3a0e58018328",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcd8aa36-a229-e64c-b028-3a0e58018328_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcd8eaab-d296-96a8-6e76-3a0dd7a9ba01",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcd8eaab-d296-96a8-6e76-3a0dd7a9ba01_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcd9296a-f58c-460b-a0e2-3a1025383c72",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcd9296a-f58c-460b-a0e2-3a1025383c72_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcda88bb-18f0-f36f-6b84-3a09a416fc1a",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcda88bb-18f0-f36f-6b84-3a09a416fc1a_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcdb54b1-63d3-e7d7-2a04-3a091d6e4687",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcdb54b1-63d3-e7d7-2a04-3a091d6e4687_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcdbcba1-f5b0-9a9d-d1e6-3a0e4d7bbf25",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcdbcba1-f5b0-9a9d-d1e6-3a0e4d7bbf25_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcdbd797-debc-3353-4df3-3a0e97f644d4",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcdbd797-debc-3353-4df3-3a0e97f644d4_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcdc99c7-cf56-7fc4-a558-3a0abaa3e014",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcdc99c7-cf56-7fc4-a558-3a0abaa3e014_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcde1ae2-0265-477d-8b9b-3a0dc74c774a",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcde1ae2-0265-477d-8b9b-3a0dc74c774a_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcde58df-ac95-a26c-d04f-3a07b42110f5",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcde58df-ac95-a26c-d04f-3a07b42110f5_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcdee66e-f033-ffda-0632-3a0f79f35b1b",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcdee66e-f033-ffda-0632-3a0f79f35b1b_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcdef516-c0e3-3133-defc-3a08e5ff7397",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcdef516-c0e3-3133-defc-3a08e5ff7397_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcdf26de-ed5e-c75b-6e9c-3a0f5a47215c",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcdf26de-ed5e-c75b-6e9c-3a0f5a47215c_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce00022-1afa-f0b4-22a3-3a101e97c409",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce00022-1afa-f0b4-22a3-3a101e97c409_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce095c6-f455-28fa-40f9-3a0f4b64e717",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce095c6-f455-28fa-40f9-3a0f4b64e717_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce1622f-1fa9-965c-917d-3a0ebf20c224",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce1622f-1fa9-965c-917d-3a0ebf20c224_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce17ebf-0d63-942a-5ebf-3a0f6a2bbe92",
+        "前/後": "前",
+        "結果": true,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce17ebf-0d63-942a-5ebf-3a0f6a2bbe92_front\\result.mp4",
+        "偵測成功圖片位置": "./wbdatas/analyze_result\\original\\fce17ebf-0d63-942a-5ebf-3a0f6a2bbe92_front\\predict_thing_img.jpg"
+    },
+    {
+        "Id": "fce1def2-79e4-ee24-db78-3a0c0db758c6",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce1def2-79e4-ee24-db78-3a0c0db758c6_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce2836c-5267-6eb0-6166-3a0f080038b9",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce2836c-5267-6eb0-6166-3a0f080038b9_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce3dc16-913e-b864-381b-3a0e2a64d2d2",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce3dc16-913e-b864-381b-3a0e2a64d2d2_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce48908-eba4-dea4-e44f-3a06f6155a81",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce48908-eba4-dea4-e44f-3a06f6155a81_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce49671-b796-873d-1941-3a0c9f289509",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce49671-b796-873d-1941-3a0c9f289509_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce57c1d-2869-c585-2689-3a0fe57fd703",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce57c1d-2869-c585-2689-3a0fe57fd703_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce64fb0-2e16-55cb-5633-3a082d82698f",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce64fb0-2e16-55cb-5633-3a082d82698f_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce65774-5c7a-33ac-31d9-3a0e5f09f129",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce65774-5c7a-33ac-31d9-3a0e5f09f129_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce6a9f4-a338-c5eb-b40a-3a0b4673e979",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce6a9f4-a338-c5eb-b40a-3a0b4673e979_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce6ea78-ef3d-3670-5cff-3a0cf4640343",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce6ea78-ef3d-3670-5cff-3a0cf4640343_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce702e6-24db-05fd-b285-3a0ec3a9046e",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce702e6-24db-05fd-b285-3a0ec3a9046e_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce7764d-13fc-f1db-5458-3a0769521c2f",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce7764d-13fc-f1db-5458-3a0769521c2f_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce7c158-3b1b-66ee-b0d4-3a06fbd1e6e2",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce7c158-3b1b-66ee-b0d4-3a06fbd1e6e2_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce86866-2a05-84bc-5c9b-3a0f474a1531",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce86866-2a05-84bc-5c9b-3a0f474a1531_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce8c136-03b0-78f8-86a0-3a0dd43ff144",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce8c136-03b0-78f8-86a0-3a0dd43ff144_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce91caf-5263-18a5-e954-3a0aa5593fe1",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce91caf-5263-18a5-e954-3a0aa5593fe1_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce963cb-e8e0-5a18-6714-3a0e7e15cc04",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce963cb-e8e0-5a18-6714-3a0e7e15cc04_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce97894-30df-1634-a862-3a0edacd068d",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce97894-30df-1634-a862-3a0edacd068d_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce98877-6ae7-a2f8-9044-3a0dad8b3232",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce98877-6ae7-a2f8-9044-3a0dad8b3232_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fce9d43b-fa79-faad-bace-3a08421f91da",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fce9d43b-fa79-faad-bace-3a08421f91da_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcea5926-d68e-d12d-347f-3a0f0caefcd4",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcea5926-d68e-d12d-347f-3a0f0caefcd4_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fceafbe4-15e5-e29a-c611-3a0ede26a4c4",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fceafbe4-15e5-e29a-c611-3a0ede26a4c4_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fceb136f-0d0e-2532-41e3-3a0c885b3d49",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fceb136f-0d0e-2532-41e3-3a0c885b3d49_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fceb3bcf-ed0c-ba60-e434-3a0a85af3da1",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fceb3bcf-ed0c-ba60-e434-3a0a85af3da1_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcec4847-acc5-dcd9-7323-3a0e501aaa27",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcec4847-acc5-dcd9-7323-3a0e501aaa27_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcec5402-bcb6-1db8-5f5d-3a072c122406",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcec5402-bcb6-1db8-5f5d-3a072c122406_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcedacd7-a75d-bffc-f43b-3a0f073e701a",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcedacd7-a75d-bffc-f43b-3a0f073e701a_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fceebc13-1f0b-c3dd-b9da-3a0f37ee2ffe",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fceebc13-1f0b-c3dd-b9da-3a0f37ee2ffe_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fceef7e8-0ddc-54b9-6132-3a0ccd851c0c",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fceef7e8-0ddc-54b9-6132-3a0ccd851c0c_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fceef9c4-46f6-7c8a-906e-3a0f4c3819b0",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fceef9c4-46f6-7c8a-906e-3a0f4c3819b0_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcef0e11-f72b-6b82-a882-3a09939d1e9b",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcef0e11-f72b-6b82-a882-3a09939d1e9b_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcef428f-2417-feab-7907-3a089c121a05",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcef428f-2417-feab-7907-3a089c121a05_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcf1e0ec-de33-a58a-d052-3a0f5bfe65d6",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcf1e0ec-de33-a58a-d052-3a0f5bfe65d6_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcf24111-bf18-3d68-cc95-3a0d3f28007b",
+        "前/後": "前",
+        "結果": true,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcf24111-bf18-3d68-cc95-3a0d3f28007b_front\\result.mp4",
+        "偵測成功圖片位置": "./wbdatas/analyze_result\\original\\fcf24111-bf18-3d68-cc95-3a0d3f28007b_front\\predict_thing_img.jpg"
+    },
+    {
+        "Id": "fcf2d066-704d-7b4a-d535-3a0fcba62a1b",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcf2d066-704d-7b4a-d535-3a0fcba62a1b_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcf30746-597b-1504-cac2-3a079150b054",
+        "前/後": "前",
+        "結果": true,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcf30746-597b-1504-cac2-3a079150b054_front\\result.mp4",
+        "偵測成功圖片位置": "./wbdatas/analyze_result\\original\\fcf30746-597b-1504-cac2-3a079150b054_front\\predict_thing_img.jpg"
+    },
+    {
+        "Id": "fcf35255-da9b-810b-8e58-3a10036141a0",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcf35255-da9b-810b-8e58-3a10036141a0_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcf39795-3e1a-a0c5-f9b0-3a102349c73e",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcf39795-3e1a-a0c5-f9b0-3a102349c73e_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcf3ef6a-bb1e-e4e3-380d-3a0cdf9fe6c1",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcf3ef6a-bb1e-e4e3-380d-3a0cdf9fe6c1_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcf42b19-de24-191a-8948-3a0e76a8b869",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcf42b19-de24-191a-8948-3a0e76a8b869_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcf4650f-5552-49bf-46bc-3a07abb0f0a0",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcf4650f-5552-49bf-46bc-3a07abb0f0a0_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcf4ccd1-5b21-803c-a544-3a0f7b0ea9fe",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcf4ccd1-5b21-803c-a544-3a0f7b0ea9fe_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcf51afd-7e60-9673-be24-3a0ebc489ad4",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcf51afd-7e60-9673-be24-3a0ebc489ad4_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcf5a786-ba46-bc0d-4537-3a0ed8cbedea",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcf5a786-ba46-bc0d-4537-3a0ed8cbedea_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcf62ea1-9fb3-7e07-8cac-3a0eeab0c957",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcf62ea1-9fb3-7e07-8cac-3a0eeab0c957_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcf72c2b-2054-c15e-2b16-3a0f3569f5b6",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcf72c2b-2054-c15e-2b16-3a0f3569f5b6_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcf7e621-222c-bdd9-6951-3a0ec3a9a5f9",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcf7e621-222c-bdd9-6951-3a0ec3a9a5f9_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcf82592-703a-260f-058d-3a09d67f933e",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcf82592-703a-260f-058d-3a09d67f933e_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcf8b8e4-f486-acaf-6f93-3a0fb1c223fb",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcf8b8e4-f486-acaf-6f93-3a0fb1c223fb_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcf9403b-c601-757d-0189-3a06dcf9bb11",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcf9403b-c601-757d-0189-3a06dcf9bb11_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcf983ae-7fb9-3d08-e44a-3a0f500df9a3",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcf983ae-7fb9-3d08-e44a-3a0f500df9a3_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcfb3c22-1ce8-8e7d-c0ec-3a0ee3caaab6",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcfb3c22-1ce8-8e7d-c0ec-3a0ee3caaab6_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcfb6821-0e44-4f77-2b92-3a0acd658bc2",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcfb6821-0e44-4f77-2b92-3a0acd658bc2_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcfb7e35-103e-4e61-9a8a-3a0eba870bc0",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcfb7e35-103e-4e61-9a8a-3a0eba870bc0_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcfc4a14-92c6-cc3c-31fa-3a0e58e3830e",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcfc4a14-92c6-cc3c-31fa-3a0e58e3830e_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcfc52c2-1824-d971-212a-3a08d5365867",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcfc52c2-1824-d971-212a-3a08d5365867_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcfcdf3b-6f0b-512f-8173-3a0c0991f52d",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcfcdf3b-6f0b-512f-8173-3a0c0991f52d_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcfcef6d-b82d-b8fd-5cff-3a0ee3285007",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcfcef6d-b82d-b8fd-5cff-3a0ee3285007_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcfcf693-0bfc-d2cb-3fb2-3a0efd2378fa",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcfcf693-0bfc-d2cb-3fb2-3a0efd2378fa_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcfd1383-6295-565e-2fc9-3a092975f1cc",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcfd1383-6295-565e-2fc9-3a092975f1cc_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcfd53f2-855a-baba-92a5-3a0fb1fb266b",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcfd53f2-855a-baba-92a5-3a0fb1fb266b_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcfd5462-5bd4-5f53-7455-3a0e00b3ed1d",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcfd5462-5bd4-5f53-7455-3a0e00b3ed1d_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcfdab67-ef71-aa6f-7b36-3a0c2c926d83",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcfdab67-ef71-aa6f-7b36-3a0c2c926d83_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcfe01df-8a01-0a5c-5db5-3a0ecb93bd9f",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcfe01df-8a01-0a5c-5db5-3a0ecb93bd9f_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcfe226a-7d60-b88d-c753-3a06b3e08bc8",
+        "前/後": "前",
+        "結果": true,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcfe226a-7d60-b88d-c753-3a06b3e08bc8_front\\result.mp4",
+        "偵測成功圖片位置": "./wbdatas/analyze_result\\original\\fcfe226a-7d60-b88d-c753-3a06b3e08bc8_front\\predict_thing_img.jpg"
+    },
+    {
+        "Id": "fcfe3f06-dbdb-a50e-e378-3a0ea595d51a",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcfe3f06-dbdb-a50e-e378-3a0ea595d51a_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcfe977f-8ace-7025-a6e4-3a10226203a3",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcfe977f-8ace-7025-a6e4-3a10226203a3_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcff1dd1-0b70-a9d3-1df1-3a06d47090dd",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcff1dd1-0b70-a9d3-1df1-3a06d47090dd_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fcff80ba-48f4-855e-9f46-3a0a80d6b8b0",
+        "前/後": "前",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fcff80ba-48f4-855e-9f46-3a0a80d6b8b0_front\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd036887-5644-a581-52ee-3a102343bd58",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd036887-5644-a581-52ee-3a102343bd58_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd06eb61-1742-b4cb-2c1b-3a0ac2eb7298",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd06eb61-1742-b4cb-2c1b-3a0ac2eb7298_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd089641-396e-e1b4-cd8e-3a0be4c1ee44",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd089641-396e-e1b4-cd8e-3a0be4c1ee44_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd0c735f-a782-df85-c1cb-3a10149bfd0d",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd0c735f-a782-df85-c1cb-3a10149bfd0d_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd0d3380-e734-a543-08a9-3a0db3bae534",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd0d3380-e734-a543-08a9-3a0db3bae534_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd10a238-70af-438a-7273-3a0eb43d3c73",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd10a238-70af-438a-7273-3a0eb43d3c73_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd1f05b3-b369-505c-f7e5-3a0a811d9a7e",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd1f05b3-b369-505c-f7e5-3a0a811d9a7e_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd23f31d-f154-a143-6709-3a0fa1b0e983",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd23f31d-f154-a143-6709-3a0fa1b0e983_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd2913fd-db51-337f-9977-3a0dd304341e",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd2913fd-db51-337f-9977-3a0dd304341e_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd2f390d-6817-6f12-5eef-3a0e05deae42",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd2f390d-6817-6f12-5eef-3a0e05deae42_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd31249b-671f-31e5-8f13-3a0ffb2ff8c3",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd31249b-671f-31e5-8f13-3a0ffb2ff8c3_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd345953-5736-5158-59a5-3a0b3ffc1945",
+        "前/後": "後",
+        "結果": true,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd345953-5736-5158-59a5-3a0b3ffc1945_back\\result.mp4",
+        "偵測成功圖片位置": "./wbdatas/analyze_result\\original\\fd345953-5736-5158-59a5-3a0b3ffc1945_back\\predict_thing_img.jpg"
+    },
+    {
+        "Id": "fd3b725b-ed45-8b46-a1c9-3a0ae32a9b3d",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd3b725b-ed45-8b46-a1c9-3a0ae32a9b3d_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd415dd4-4095-e016-64f7-3a0cc220f8ce",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd415dd4-4095-e016-64f7-3a0cc220f8ce_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd46bb35-f3bc-6e01-bb2c-3a0fe424613a",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd46bb35-f3bc-6e01-bb2c-3a0fe424613a_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd4cf5f0-3012-68e5-5014-3a0e501304ed",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd4cf5f0-3012-68e5-5014-3a0e501304ed_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd4d2462-8f25-3726-ef51-3a0a96c9251a",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd4d2462-8f25-3726-ef51-3a0a96c9251a_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd4fc55a-cc40-61c0-3109-3a0b31e64e92",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd4fc55a-cc40-61c0-3109-3a0b31e64e92_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd517063-aa67-96eb-500f-3a0e71691f03",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd517063-aa67-96eb-500f-3a0e71691f03_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd5217d5-6ee1-b77f-8c85-3a0b308f1e8d",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd5217d5-6ee1-b77f-8c85-3a0b308f1e8d_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd5350e3-0425-971b-9c67-3a0ffb64d405",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd5350e3-0425-971b-9c67-3a0ffb64d405_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd56d484-077c-b026-0550-3a0ad7d873b6",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd56d484-077c-b026-0550-3a0ad7d873b6_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd56e19a-2da3-7908-45a7-3a0bbb1b3cf0",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd56e19a-2da3-7908-45a7-3a0bbb1b3cf0_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd5a6c50-031b-86d9-2a3d-3a0bc592b271",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd5a6c50-031b-86d9-2a3d-3a0bc592b271_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd5c5d83-4a3f-c265-a331-3a0bc4911235",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd5c5d83-4a3f-c265-a331-3a0bc4911235_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd5ca5ae-528c-2dc8-5a43-3a0db2bc817a",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd5ca5ae-528c-2dc8-5a43-3a0db2bc817a_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd60c322-ffbe-274c-6fd5-3a0d0ae2cae2",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd60c322-ffbe-274c-6fd5-3a0d0ae2cae2_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd63ffce-494e-66d9-2a82-3a0e92de6cf1",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd63ffce-494e-66d9-2a82-3a0e92de6cf1_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd64e08d-aace-7494-bef4-3a0ee9ee6332",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd64e08d-aace-7494-bef4-3a0ee9ee6332_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd6a2c07-969c-6c90-e330-3a0bb0ee8b77",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd6a2c07-969c-6c90-e330-3a0bb0ee8b77_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd6f2f98-8721-f60d-65c3-3a0d3cdaf388",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd6f2f98-8721-f60d-65c3-3a0d3cdaf388_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd713180-650d-9249-44cc-3a0d4e22a6ea",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd713180-650d-9249-44cc-3a0d4e22a6ea_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd76d51d-3902-3976-8920-3a0e7e411ca8",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd76d51d-3902-3976-8920-3a0e7e411ca8_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd7fb97b-850d-d761-8556-3a0d53730def",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd7fb97b-850d-d761-8556-3a0d53730def_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd829b66-d6a5-8f42-df8e-3a0b690b32cf",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd829b66-d6a5-8f42-df8e-3a0b690b32cf_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd8b7e10-f069-c6a8-370c-3a0bdb8d971a",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd8b7e10-f069-c6a8-370c-3a0bdb8d971a_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd939116-58f8-c4f2-6fb9-3a0c6c1d70e4",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd939116-58f8-c4f2-6fb9-3a0c6c1d70e4_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd93b6c9-0b92-795d-7456-3a0aa3edf69d",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd93b6c9-0b92-795d-7456-3a0aa3edf69d_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fd967cf4-0202-7483-07e2-3a0ee32f4f04",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fd967cf4-0202-7483-07e2-3a0ee32f4f04_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fda2a0f0-9103-f80a-81f2-3a0c22718368",
+        "前/後": "後",
+        "結果": true,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fda2a0f0-9103-f80a-81f2-3a0c22718368_back\\result.mp4",
+        "偵測成功圖片位置": "./wbdatas/analyze_result\\original\\fda2a0f0-9103-f80a-81f2-3a0c22718368_back\\predict_thing_img.jpg"
+    },
+    {
+        "Id": "fda542c5-c73b-f0ec-0944-3a0ac333b9b9",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fda542c5-c73b-f0ec-0944-3a0ac333b9b9_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fda8d97f-3031-54c6-31c3-3a0c797264ad",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fda8d97f-3031-54c6-31c3-3a0c797264ad_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fdb01e94-ed3e-1803-0a94-3a0c9e3c1b22",
+        "前/後": "後",
+        "結果": true,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fdb01e94-ed3e-1803-0a94-3a0c9e3c1b22_back\\result.mp4",
+        "偵測成功圖片位置": "./wbdatas/analyze_result\\original\\fdb01e94-ed3e-1803-0a94-3a0c9e3c1b22_back\\predict_thing_img.jpg"
+    },
+    {
+        "Id": "fdb6a8ce-fdc3-52e3-1d62-3a0f9dfff903",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fdb6a8ce-fdc3-52e3-1d62-3a0f9dfff903_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fdb7edc1-1ff7-a53f-a505-3a0f5b8f98aa",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fdb7edc1-1ff7-a53f-a505-3a0f5b8f98aa_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fdbcbb08-3b44-d0e1-3dce-3a0cc28f88fe",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fdbcbb08-3b44-d0e1-3dce-3a0cc28f88fe_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fdc16786-3cda-fcb0-ce74-3a0ad9a6335d",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fdc16786-3cda-fcb0-ce74-3a0ad9a6335d_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fdc1840d-741c-3ad0-fa0c-3a0b55ba011a",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fdc1840d-741c-3ad0-fa0c-3a0b55ba011a_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fdc1912e-8c89-f167-32b9-3a0cc1aadf90",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fdc1912e-8c89-f167-32b9-3a0cc1aadf90_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fdc66995-a47d-8bd6-a540-3a0db9d4036a",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fdc66995-a47d-8bd6-a540-3a0db9d4036a_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fdc6bde6-474d-5ab2-816c-3a0b9ddc7b7a",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fdc6bde6-474d-5ab2-816c-3a0b9ddc7b7a_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fdcd8c52-4f18-c638-48b9-3a0ee9c09b31",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fdcd8c52-4f18-c638-48b9-3a0ee9c09b31_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fdce54a2-54d4-3aa7-03f7-3a0ea7269697",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fdce54a2-54d4-3aa7-03f7-3a0ea7269697_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fdd84b70-d186-1d3e-a0c9-3a0df0c8c7b8",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fdd84b70-d186-1d3e-a0c9-3a0df0c8c7b8_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fdd9d177-4b7e-bfef-c28d-3a0f0bbcd5a8",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fdd9d177-4b7e-bfef-c28d-3a0f0bbcd5a8_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fddac834-8739-33a2-c491-3a0ad98bba16",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fddac834-8739-33a2-c491-3a0ad98bba16_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fddeec9a-83e6-54d0-80e8-3a0cae7cfc00",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fddeec9a-83e6-54d0-80e8-3a0cae7cfc00_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fddf7f31-158c-ac28-44f6-3a0bfa42af3b",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fddf7f31-158c-ac28-44f6-3a0bfa42af3b_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fde01563-8366-3ed6-259d-3a0eed3f515d",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fde01563-8366-3ed6-259d-3a0eed3f515d_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fde4b5d4-aff4-a1a1-350f-3a0b2619739c",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fde4b5d4-aff4-a1a1-350f-3a0b2619739c_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fde56ba3-b933-942b-7ed3-3a0f32ae6e3e",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fde56ba3-b933-942b-7ed3-3a0f32ae6e3e_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fde5c30d-a56f-3353-8ed7-3a0ad4f14493",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fde5c30d-a56f-3353-8ed7-3a0ad4f14493_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fdeef36b-ad2d-2d85-ff90-3a0ba5f2b110",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fdeef36b-ad2d-2d85-ff90-3a0ba5f2b110_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fdef35a0-588e-f73c-668c-3a0c76212aaf",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fdef35a0-588e-f73c-668c-3a0c76212aaf_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fdf72031-6753-a1ce-c07d-3a0e57e55726",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fdf72031-6753-a1ce-c07d-3a0e57e55726_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe026ce0-7d8f-ece5-2edb-3a0b5b0f0faf",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe026ce0-7d8f-ece5-2edb-3a0b5b0f0faf_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe02ba9f-07e1-1b4e-a44f-3a0f700d2452",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe02ba9f-07e1-1b4e-a44f-3a0f700d2452_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe049228-d8f8-bfab-3a4e-3a0ce5c1a3c6",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe049228-d8f8-bfab-3a4e-3a0ce5c1a3c6_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe0df200-31a3-a5d0-dfaf-3a0baca430b6",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe0df200-31a3-a5d0-dfaf-3a0baca430b6_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe0e85ce-c762-5e05-47fa-3a0c79292e84",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe0e85ce-c762-5e05-47fa-3a0c79292e84_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe11b633-6b3a-8b51-7374-3a0ea2058d7e",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe11b633-6b3a-8b51-7374-3a0ea2058d7e_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe156536-a72b-da6f-2196-3a0edb0f3443",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe156536-a72b-da6f-2196-3a0edb0f3443_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe22a685-3bb3-e7ab-e139-3a0f37961fd0",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe22a685-3bb3-e7ab-e139-3a0f37961fd0_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe22bc05-9234-cfd0-f9d2-3a0c7a201198",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe22bc05-9234-cfd0-f9d2-3a0c7a201198_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe270985-6a56-78bc-fb84-3a0baaed48b8",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe270985-6a56-78bc-fb84-3a0baaed48b8_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe390f6a-8b4a-7747-1441-3a0fc08d7d07",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe390f6a-8b4a-7747-1441-3a0fc08d7d07_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe3b52b8-4882-d23b-6885-3a0bf7e7cef6",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe3b52b8-4882-d23b-6885-3a0bf7e7cef6_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe3ea8d1-902e-42e5-d2cb-3a0f702c7756",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe3ea8d1-902e-42e5-d2cb-3a0f702c7756_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe433e97-7957-b26e-23f0-3a0e2be036c0",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe433e97-7957-b26e-23f0-3a0e2be036c0_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe44600d-c6a4-0125-c35f-3a0e7df88815",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe44600d-c6a4-0125-c35f-3a0e7df88815_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe45df49-82fb-c7d9-3392-3a0b8c18bc17",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe45df49-82fb-c7d9-3392-3a0b8c18bc17_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe45e7bb-7092-0e1d-2359-3a0cc3ce98aa",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe45e7bb-7092-0e1d-2359-3a0cc3ce98aa_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe49f5eb-ca2e-60f7-2d80-3a0cb42ec79b",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe49f5eb-ca2e-60f7-2d80-3a0cb42ec79b_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe4b2644-a6a1-530f-f6d9-3a0d18421bce",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe4b2644-a6a1-530f-f6d9-3a0d18421bce_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe4cf8bf-bd54-27d5-8f06-3a0ebbdcca4d",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe4cf8bf-bd54-27d5-8f06-3a0ebbdcca4d_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe4cfe22-bbfe-3531-c24f-3a0f0429135e",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe4cfe22-bbfe-3531-c24f-3a0f0429135e_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe507850-9367-20a3-dda4-3a0e056abbac",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe507850-9367-20a3-dda4-3a0e056abbac_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe5288fe-c84f-03b3-307e-3a0c8af3339e",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe5288fe-c84f-03b3-307e-3a0c8af3339e_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe59c8b7-fc05-8916-40f3-3a0febc3c78e",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe59c8b7-fc05-8916-40f3-3a0febc3c78e_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe5bb8f9-c480-1a88-5b55-3a0f88b3f673",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe5bb8f9-c480-1a88-5b55-3a0f88b3f673_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe5c9ed0-9c46-0a85-c125-3a0ec551083f",
+        "前/後": "後",
+        "結果": true,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe5c9ed0-9c46-0a85-c125-3a0ec551083f_back\\result.mp4",
+        "偵測成功圖片位置": "./wbdatas/analyze_result\\original\\fe5c9ed0-9c46-0a85-c125-3a0ec551083f_back\\predict_thing_img.jpg"
+    },
+    {
+        "Id": "fe5fb981-84ba-b3b9-b0e9-3a0d4171f539",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe5fb981-84ba-b3b9-b0e9-3a0d4171f539_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe69900c-c8ed-b792-2b56-3a0d4bd4dc6e",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe69900c-c8ed-b792-2b56-3a0d4bd4dc6e_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe69da36-a085-e664-5626-3a0eb6d324cf",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe69da36-a085-e664-5626-3a0eb6d324cf_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe6ad7fc-9751-8e64-6d7e-3a0d282c38ab",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe6ad7fc-9751-8e64-6d7e-3a0d282c38ab_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe6db954-cd62-3690-25f2-3a0e6879af02",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe6db954-cd62-3690-25f2-3a0e6879af02_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe71d39a-233f-a50d-7ad1-3a0eb61f479a",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe71d39a-233f-a50d-7ad1-3a0eb61f479a_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe727ca7-8dcd-08ad-8cba-3a0ff0ed45b0",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe727ca7-8dcd-08ad-8cba-3a0ff0ed45b0_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe7adad1-1817-99a6-6cf5-3a0cc3780e9d",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe7adad1-1817-99a6-6cf5-3a0cc3780e9d_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe7cabab-da93-7712-e68e-3a0d84b4c5c3",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe7cabab-da93-7712-e68e-3a0d84b4c5c3_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe7cff65-0c27-c626-8548-3a0e2bceefb6",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe7cff65-0c27-c626-8548-3a0e2bceefb6_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe7d4ccf-7fea-0a55-af90-3a0fc8097b75",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe7d4ccf-7fea-0a55-af90-3a0fc8097b75_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe7eb337-2d17-8612-ca96-3a0b8748e9f1",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe7eb337-2d17-8612-ca96-3a0b8748e9f1_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe825768-b055-55ac-d133-3a101277d354",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe825768-b055-55ac-d133-3a101277d354_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe835d0b-e9e6-c3e7-573b-3a0cd2101886",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe835d0b-e9e6-c3e7-573b-3a0cd2101886_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe86d256-5302-90fa-4411-3a0da341d6f0",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe86d256-5302-90fa-4411-3a0da341d6f0_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe89bca2-5c4c-44cd-ab49-3a0f5be6fa61",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe89bca2-5c4c-44cd-ab49-3a0f5be6fa61_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe9508e2-0fb3-50a6-e169-3a0bc1333498",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe9508e2-0fb3-50a6-e169-3a0bc1333498_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe9527bc-2252-8d6f-bc04-3a0fc7420db6",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe9527bc-2252-8d6f-bc04-3a0fc7420db6_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe957b60-2583-ff4b-ab17-3a0fa43b40fa",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe957b60-2583-ff4b-ab17-3a0fa43b40fa_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe98a346-2296-3574-9fc2-3a0f69469254",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe98a346-2296-3574-9fc2-3a0f69469254_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fe99f338-9507-4f36-3710-3a0c1e911bd3",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fe99f338-9507-4f36-3710-3a0c1e911bd3_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fea560c3-c616-c13e-96cc-3a0b6dd43e68",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fea560c3-c616-c13e-96cc-3a0b6dd43e68_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fea5936a-1d74-1a1c-1e19-3a0ea0d8dcd8",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fea5936a-1d74-1a1c-1e19-3a0ea0d8dcd8_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fea85785-6607-08cd-8e06-3a0ea4e31e92",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fea85785-6607-08cd-8e06-3a0ea4e31e92_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "feaae91e-7607-9eb7-2f95-3a0c174116b6",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\feaae91e-7607-9eb7-2f95-3a0c174116b6_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "feab311f-b5a4-7c70-bcf0-3a0ffbb73d72",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\feab311f-b5a4-7c70-bcf0-3a0ffbb73d72_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "feb4d5b4-deb1-5d15-9761-3a0f5e47dd49",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\feb4d5b4-deb1-5d15-9761-3a0f5e47dd49_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "febaa1f8-9b4a-d6d0-b205-3a0ab53f5154",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\febaa1f8-9b4a-d6d0-b205-3a0ab53f5154_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fec13ab0-8105-079f-6b3c-3a0abb4fd4f5",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fec13ab0-8105-079f-6b3c-3a0abb4fd4f5_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fec20af0-696d-666f-45c9-3a0ea6ceb9b0",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fec20af0-696d-666f-45c9-3a0ea6ceb9b0_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fec2f463-da7b-49d1-6d78-3a0f8d256c35",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fec2f463-da7b-49d1-6d78-3a0f8d256c35_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fec4d1ef-a8d7-98e3-e210-3a0e073142a1",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fec4d1ef-a8d7-98e3-e210-3a0e073142a1_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fecd308c-db14-0fd0-7523-3a0ffe5758ed",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fecd308c-db14-0fd0-7523-3a0ffe5758ed_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fecf1687-d8c6-9830-9429-3a0fb7c2e1ba",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fecf1687-d8c6-9830-9429-3a0fb7c2e1ba_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fed1e897-f381-f211-3332-3a0ff131ab45",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fed1e897-f381-f211-3332-3a0ff131ab45_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fed5ba83-06d6-1ccd-a73d-3a0ea18de15e",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fed5ba83-06d6-1ccd-a73d-3a0ea18de15e_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fed5f759-1684-2cc3-3a5b-3a0ce7513350",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fed5f759-1684-2cc3-3a5b-3a0ce7513350_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fed63b2d-d776-8368-0797-3a0edad4090f",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fed63b2d-d776-8368-0797-3a0edad4090f_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fed9766e-47f9-e1a7-084b-3a0dd3d79c4a",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fed9766e-47f9-e1a7-084b-3a0dd3d79c4a_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fed97ee3-be9d-2ac4-fae1-3a0fc172bdc4",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fed97ee3-be9d-2ac4-fae1-3a0fc172bdc4_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fede7d67-910d-30ee-8d5a-3a0e5a13c23b",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fede7d67-910d-30ee-8d5a-3a0e5a13c23b_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fee6c039-da05-70df-9f09-3a0eb583993a",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fee6c039-da05-70df-9f09-3a0eb583993a_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fee7b55d-0084-30d9-0c6d-3a0e6ecdd1ba",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fee7b55d-0084-30d9-0c6d-3a0e6ecdd1ba_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "feeeee0f-1037-b9e9-6095-3a10036f3dbe",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\feeeee0f-1037-b9e9-6095-3a10036f3dbe_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fefb0f80-e13b-623d-b24a-3a0d19eb6ea5",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fefb0f80-e13b-623d-b24a-3a0d19eb6ea5_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff02f158-77b2-cf6a-9b19-3a0ad4cd9c77",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff02f158-77b2-cf6a-9b19-3a0ad4cd9c77_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff060a06-278d-edf4-452e-3a0ae98140cb",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff060a06-278d-edf4-452e-3a0ae98140cb_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff0905e3-6cd7-5357-de9b-3a0f4641a5b3",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff0905e3-6cd7-5357-de9b-3a0f4641a5b3_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff0ce724-3425-4a77-e5b1-3a0c6c1439d2",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff0ce724-3425-4a77-e5b1-3a0c6c1439d2_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff0e23bf-4e25-d87c-36d0-3a0b6d3f9262",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff0e23bf-4e25-d87c-36d0-3a0b6d3f9262_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff125e53-f1b9-a323-4549-3a0d0510ee77",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff125e53-f1b9-a323-4549-3a0d0510ee77_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff15fe1c-abb5-3ea9-faa4-3a0eacd41a01",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff15fe1c-abb5-3ea9-faa4-3a0eacd41a01_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff173ad6-9c19-1f96-cafd-3a0f6e3b3ace",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff173ad6-9c19-1f96-cafd-3a0f6e3b3ace_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff277b5e-cf6d-9752-cc43-3a0f69d91a50",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff277b5e-cf6d-9752-cc43-3a0f69d91a50_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff27a264-451a-6e1e-e275-3a0d81617d87",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff27a264-451a-6e1e-e275-3a0d81617d87_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff2bad8a-955f-1eb5-e07c-3a0ac54cc222",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff2bad8a-955f-1eb5-e07c-3a0ac54cc222_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff31ceae-1d17-a6ea-f8d2-3a0e167be696",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff31ceae-1d17-a6ea-f8d2-3a0e167be696_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff31efce-80dd-005c-aad4-3a0ecba15eb4",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff31efce-80dd-005c-aad4-3a0ecba15eb4_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff35976c-1877-8488-a99b-3a0b88e8e61b",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff35976c-1877-8488-a99b-3a0b88e8e61b_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff3640b6-a587-f81a-d314-3a0b40d00431",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff3640b6-a587-f81a-d314-3a0b40d00431_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff39a174-89db-943d-bf6f-3a0ffb3fb65d",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff39a174-89db-943d-bf6f-3a0ffb3fb65d_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff39b8f4-96b7-e3a2-0d07-3a10007cad52",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff39b8f4-96b7-e3a2-0d07-3a10007cad52_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff3f4364-38a0-3ccb-d78a-3a0ab563f96b",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff3f4364-38a0-3ccb-d78a-3a0ab563f96b_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff41106a-5b5a-5dd7-dcb1-3a0e022a5c83",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff41106a-5b5a-5dd7-dcb1-3a0e022a5c83_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff416b56-89af-b88e-83ee-3a0cb6dc39cf",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff416b56-89af-b88e-83ee-3a0cb6dc39cf_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff4c1580-86db-1f54-472c-3a0f5e4a07c1",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff4c1580-86db-1f54-472c-3a0f5e4a07c1_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff529bac-c561-9c73-4dcd-3a0e26d28a72",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff529bac-c561-9c73-4dcd-3a0e26d28a72_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff52aed3-ac3f-c794-72e2-3a0d19d3c7ee",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff52aed3-ac3f-c794-72e2-3a0d19d3c7ee_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff538106-dd96-ba2a-0d4b-3a0b8e3cb44c",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff538106-dd96-ba2a-0d4b-3a0b8e3cb44c_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff538518-ef9d-ee11-39cc-3a0ce0d1f7a4",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff538518-ef9d-ee11-39cc-3a0ce0d1f7a4_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff574857-c5e8-7515-399a-3a0bb7af5c75",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff574857-c5e8-7515-399a-3a0bb7af5c75_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff5d8cf6-4fb9-ec5d-26ef-3a0ed98d27d3",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff5d8cf6-4fb9-ec5d-26ef-3a0ed98d27d3_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff5dbe47-263c-9613-3537-3a0cf4a5a55d",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff5dbe47-263c-9613-3537-3a0cf4a5a55d_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff5e606c-d2d1-30c6-72ec-3a0c9df87eb3",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff5e606c-d2d1-30c6-72ec-3a0c9df87eb3_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff66690e-1144-3778-290e-3a0aaefbfafd",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff66690e-1144-3778-290e-3a0aaefbfafd_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff6870f2-51d0-dfde-a5c6-3a0ba6d36a4f",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff6870f2-51d0-dfde-a5c6-3a0ba6d36a4f_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff68cb69-aa2b-62ed-5668-3a0ec41b71f2",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff68cb69-aa2b-62ed-5668-3a0ec41b71f2_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff6b7fbf-c4f8-2f0b-90b5-3a0b63eddaa8",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff6b7fbf-c4f8-2f0b-90b5-3a0b63eddaa8_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff6cec47-1368-f25c-09c8-3a0ac801e18e",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff6cec47-1368-f25c-09c8-3a0ac801e18e_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff6db411-56ab-b7f7-08a3-3a0df0b0b84d",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff6db411-56ab-b7f7-08a3-3a0df0b0b84d_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff7b4d10-4ed1-4816-5090-3a0bb2a52820",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff7b4d10-4ed1-4816-5090-3a0bb2a52820_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff7c5597-c4f4-b9f4-b606-3a0d8592673a",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff7c5597-c4f4-b9f4-b606-3a0d8592673a_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff7d6d0a-459f-eb7f-3589-3a0dc9c9e06d",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff7d6d0a-459f-eb7f-3589-3a0dc9c9e06d_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff807209-f103-69ec-2717-3a0ada1805e7",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff807209-f103-69ec-2717-3a0ada1805e7_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff84aea0-a42e-6c73-52ed-3a0ea660c184",
+        "前/後": "後",
+        "結果": true,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff84aea0-a42e-6c73-52ed-3a0ea660c184_back\\result.mp4",
+        "偵測成功圖片位置": "./wbdatas/analyze_result\\original\\ff84aea0-a42e-6c73-52ed-3a0ea660c184_back\\predict_thing_img.jpg"
+    },
+    {
+        "Id": "ff861e0f-ef0f-2095-e8e4-3a0d3a2915fc",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff861e0f-ef0f-2095-e8e4-3a0d3a2915fc_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff889940-e58e-ab92-649b-3a0e597c84a2",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff889940-e58e-ab92-649b-3a0e597c84a2_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff88ff37-c454-75ac-e0d6-3a0b8260f168",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff88ff37-c454-75ac-e0d6-3a0b8260f168_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ff9f718b-eac3-e52f-4700-3a0f707f716c",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ff9f718b-eac3-e52f-4700-3a0f707f716c_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ffa1443e-f5f6-30bf-5788-3a0dec7c074e",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ffa1443e-f5f6-30bf-5788-3a0dec7c074e_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ffa45ba3-dba7-cc73-1b6e-3a0baafada86",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ffa45ba3-dba7-cc73-1b6e-3a0baafada86_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ffa89db3-951b-bb92-fc40-3a0bf2e7b4cd",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ffa89db3-951b-bb92-fc40-3a0bf2e7b4cd_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ffa96411-02e1-0860-a2ec-3a0d03f3ee28",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ffa96411-02e1-0860-a2ec-3a0d03f3ee28_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ffaa4f5e-3bae-3a5c-a933-3a0d4dcafdcc",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ffaa4f5e-3bae-3a5c-a933-3a0d4dcafdcc_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ffabc058-2606-9555-50f7-3a0edf22bb83",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ffabc058-2606-9555-50f7-3a0edf22bb83_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ffaf153e-d5d9-478f-8bf4-3a0d28d71fce",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ffaf153e-d5d9-478f-8bf4-3a0d28d71fce_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ffb7350d-db17-66f3-da69-3a0f851d169e",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ffb7350d-db17-66f3-da69-3a0f851d169e_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ffb8505a-f3c3-e74a-3f31-3a0dba419944",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ffb8505a-f3c3-e74a-3f31-3a0dba419944_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ffbccbc6-0832-0e03-2e5f-3a0e63a51fe7",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ffbccbc6-0832-0e03-2e5f-3a0e63a51fe7_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ffbd7766-f47d-9109-61c8-3a0b40eefbe3",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ffbd7766-f47d-9109-61c8-3a0b40eefbe3_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ffc16c2a-5b38-2fc8-7ecb-3a0eff40de38",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ffc16c2a-5b38-2fc8-7ecb-3a0eff40de38_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ffc5a118-b398-0324-6863-3a0ec960d2b8",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ffc5a118-b398-0324-6863-3a0ec960d2b8_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ffc797f5-2f8c-a55f-3951-3a0fda63507d",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ffc797f5-2f8c-a55f-3951-3a0fda63507d_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ffc84d14-c6ca-a626-f960-3a0b92daa811",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ffc84d14-c6ca-a626-f960-3a0b92daa811_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ffc9c15c-516d-c4be-5602-3a0be3c2a23a",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ffc9c15c-516d-c4be-5602-3a0be3c2a23a_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ffd1bd34-4e7c-0bc1-f470-3a0df8116816",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ffd1bd34-4e7c-0bc1-f470-3a0df8116816_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ffd7a114-08a2-32c6-5fc9-3a0b63be7aa5",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ffd7a114-08a2-32c6-5fc9-3a0b63be7aa5_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ffe8edd4-c8a7-4695-19af-3a0fc2a408ed",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ffe8edd4-c8a7-4695-19af-3a0fc2a408ed_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "ffece12e-ba13-3e14-6cdd-3a0b553ef3a9",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\ffece12e-ba13-3e14-6cdd-3a0b553ef3a9_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fff39bf3-80a2-5457-3038-3a0fd6ad5e7c",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fff39bf3-80a2-5457-3038-3a0fd6ad5e7c_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fff9348f-25c7-3a38-d7e8-3a0d15cca7b1",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fff9348f-25c7-3a38-d7e8-3a0d15cca7b1_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    },
+    {
+        "Id": "fffe28bf-c2f9-6f0a-a005-3a0fff7f592c",
+        "前/後": "後",
+        "結果": false,
+        "正確答案": false,
+        "是否正確": false,
+        "原始檔案位置": "./wbdatas/analyze_result\\original\\fffe28bf-c2f9-6f0a-a005-3a0fff7f592c_back\\result.mp4",
+        "偵測成功圖片位置": "無"
+    }
+]

@@ -1,0 +1,9 @@
+# path: 'C:/Users/ggoch2/Desktop/Yolov8/datasets'
+train: 'C:/Users/ggoch2/Desktop/Yolov8/datasets/custom/train'
+# train: './datasets/custom/train'
+val: 'C:/Users/ggoch2/Desktop/Yolov8/datasets/custom/valid'
+# val: './datasets/custom/valid'
+# train: './custom/train'
+# val: './custom/valid'
+nc: 3
+names: ['business_waste','recycling_truck','rubbish_truck']

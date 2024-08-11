@@ -7,7 +7,47 @@ class LabelType(Enum):
     YOLO = 1
     Polygon = 2
 
-path = "./datas/cars/annotations"
+classes = {
+    "license plate": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "0": 10,
+    "A": 11,
+    "B": 12,
+    "C": 13,
+    "D": 14,
+    "E": 15,
+    "F": 16,
+    "G": 17,
+    "H": 18,
+    "I": 19,
+    "J": 20,
+    "K": 21,
+    "L": 22,
+    "M": 23,
+    "N": 24,
+    "O": 25,
+    "P": 26,
+    "Q": 27,
+    "R": 28,
+    "S": 29,
+    "T": 30,
+    "U": 31,
+    "V": 32,
+    "W": 33,
+    "X": 34,
+    "Y": 35,
+    "Z": 36,
+    }
+
+path = "./datas/labels/Labels"
 labels_path = "./datas/cars/polygon-labels-test"
 
 def convert_to_polygon(x_center, y_center, width, height):
@@ -33,8 +73,14 @@ def ensure_directory_path(directory_path):
             
             
             
-def xml2txt(xml_path, labels_path,lebel_type=LabelType.YOLO):
-    classes = {"licence": 0}
+def xml2txt(xml_path, labels_path,classes=None,lebel_type=LabelType.YOLO,img_type=".png"):
+    """
+    將xml標註文件轉換為txt標註文件。
+    classes: 類別字典。(classes = {"licence": 0})
+    img_type: 圖片類型。(".jpg", ".png")
+    """
+    if classes is None:
+        raise ValueError("classes is None")
 
     if not os.path.exists(labels_path):
         os.mkdir(labels_path)
@@ -42,7 +88,7 @@ def xml2txt(xml_path, labels_path,lebel_type=LabelType.YOLO):
     for annotations in os.listdir(xml_path):
         dom = parse(os.path.join(xml_path, annotations))
         root = dom.documentElement
-        filename = ".txt".join(root.getElementsByTagName("filename")[0].childNodes[0].data.split(".png"))
+        filename = ".txt".join(root.getElementsByTagName("filename")[0].childNodes[0].data.split(img_type))
         image_width = root.getElementsByTagName("width")[0].childNodes[0].data
         image_height = root.getElementsByTagName("height")[0].childNodes[0].data
 
@@ -71,4 +117,6 @@ def xml2txt(xml_path, labels_path,lebel_type=LabelType.YOLO):
                     r.write(str(classes[name]) + " ")
                     r.write(" ".join([str(a) for a in polygon]) + "\n")
 
-# xml2txt(path, labels_path, LabelType.Polygon)
+    print("轉換完成。")
+
+# xml2txt(path, labels_path, classes,img_type=".jpg")

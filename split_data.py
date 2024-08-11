@@ -51,26 +51,41 @@ def split(data_path,train_path,valid_path,img_source_dir="images",label_source_d
     mid = int(len(files) * split_ratio)
 
     for file in files[:mid]:
-        source = os.path.join(data_path, img_source_dir, f"{file}{fileType}")
-        target = os.path.join(train_path, img_target_dir, f"{file}{fileType}")
-        print(source, target)
-        shutil.copy(source, target)
+        # source = os.path.join(data_path, img_source_dir, f"{file}{fileType}")
+        # target = os.path.join(train_path, img_target_dir, f"{file}{fileType}")
+        # print(source, target)
+        # shutil.copy(source, target)
 
-        source = os.path.join(data_path, label_source_dir, f"{file}.txt")
-        target = os.path.join(train_path, label_target_dir, f"{file}.txt")
-        print(source, target)
-        shutil.copy(source, target)
+        # source = os.path.join(data_path, label_source_dir, f"{file}.txt")
+        # target = os.path.join(train_path, label_target_dir, f"{file}.txt")
+        # print(source, target)
+        # shutil.copy(source, target)
+        try:
+            source = os.path.join(data_path, img_source_dir, f"{file}{fileType}")
+            target = os.path.join(train_path, img_target_dir, f"{file}{fileType}")
+            print(source, target)
+            shutil.copy(source, target)
+
+            source = os.path.join(data_path, label_source_dir, f"{file}.txt")
+            target = os.path.join(train_path, label_target_dir, f"{file}.txt")
+            print(source, target)
+            shutil.copy(source, target)
+        except:
+            print(f"Error: {file}")
 
     for file in files[mid:]:
-        source = os.path.join(data_path, img_source_dir, f"{file}{fileType}")
-        target = os.path.join(valid_path, img_target_dir, f"{file}{fileType}")
-        print(source, target)
-        shutil.copy(source, target)
+        try:
+            source = os.path.join(data_path, img_source_dir, f"{file}{fileType}")
+            target = os.path.join(valid_path, img_target_dir, f"{file}{fileType}")
+            print(source, target)
+            shutil.copy(source, target)
 
-        source = os.path.join(data_path, label_source_dir, f"{file}.txt")
-        target = os.path.join(valid_path, label_target_dir, f"{file}.txt")
-        print(source, target)
-        shutil.copy(source, target)
+            source = os.path.join(data_path, label_source_dir, f"{file}.txt")
+            target = os.path.join(valid_path, label_target_dir, f"{file}.txt")
+            print(source, target)
+            shutil.copy(source, target)
+        except:
+            print(f"Error: {file}")
 
     print("done")
 

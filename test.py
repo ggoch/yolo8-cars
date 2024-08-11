@@ -4,6 +4,7 @@ import video2img
 import predict2labelme_json
 import cv2
 import tools.predict_folder_saveimg as predict_folder_saveimg
+import split_data
 
 model_path = "models/wb/thingV8.0/weights/best.pt"
 
@@ -23,4 +24,4 @@ model_path = "models/wb/thingV8.0/weights/best.pt"
 
 # video2img.toimg(video_path,"wb_08white")
 
-predict_folder_saveimg.predict_result_to_labelme_datas(model_path, "./wbdatas/split_output", "./datas/split_output_V8.0_result",conf=0.85)
+# predict_folder_saveimg.predict_result_to_labelme_datas(model_path, "./wbdatas/split_output", "./datas/split_output_V8.0_result",conf=0.85)
